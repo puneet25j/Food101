@@ -1,2 +1,19 @@
-.vscode
-__pycache__
+# --- Python & Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# --- Environment & OS ---
+.env
+.venv
+env/
+venv/
+ENV/
+.DS_Store
+Thumbs.db
+.vscode/
+
+# --- TensorBoard Logs ---
+logs/
