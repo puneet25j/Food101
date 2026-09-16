@@ -166,7 +166,7 @@ print(f"Prediction: {predicted_class} ({pred_prob.max():.2%})")
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/puneet25j/Food101.git](https://github.com/puneet25j/Food101.git)
+git clone https://github.com/puneet25j/Food101.git
 cd Food101
 ```
 
