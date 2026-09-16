@@ -116,7 +116,7 @@ Evaluation across all 101 food classes ranked by individual F1-score:
 ### 3. Most Confident Misclassifications
 A 3x3 error inspection grid depicting test instances where the model yielded high confidence in an incorrect prediction:
 
-![Top Confident Mistakes](docs/images/top_confident_mistakes.jpg)
+![Top Confident Mistakes](docs/images/top_confident_mistakes.png)
 
 ---
 
